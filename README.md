@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Van Duc</h1>
 <h3 align="center">A student of Artificial Intelligence in FPT University (Vietnam)</h3>
 
-<img align="right" alt="Coding" width="300" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
+<img align="right" alt="Coding" width="250" src="https://raw.githubusercontent.com/chiraag-kakar/chiraag-kakar/master/hadder.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vvduc03&label=Profile%20views&color=0e75b6&style=flat" alt="vvduc03" /> </p>
 
